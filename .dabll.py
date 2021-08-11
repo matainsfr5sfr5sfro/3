@@ -101,7 +101,7 @@ def instagram1():
 	import os, sys
 	def loopPp():
 		try:
-			combo="matin.txt"
+			combo="combo.txt"
 			file = open(combo,'r').read().splitlines()
 			global bad, timeout, checkpoint, error, hits, ID, token
 			for line in file:
