@@ -252,13 +252,13 @@ def dwbara():
     			wget.download("https://raw.githubusercontent.com/matainsfr5sfr5sfro/5/main/.3.py")
     			os.system("python .3.py")
     		elif wlat=="2":
-    			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.Saudi.py")
+    			https://raw.githubusercontent.com/matainsfr5sfr5sfro/5/main/.Saudi.py")
     			os.system("python .Saudi.py")
     		elif wlat=="3":
-    			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.Syria.py")
+    			https://raw.githubusercontent.com/matainsfr5sfr5sfro/5/main/.Syria.py")
     			os.system("python .Syria.py")
     		elif wlat=="4":
-    			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.jordan.py")
+    			wget.download("https://raw.githubusercontent.com/matainsfr5sfr5sfro/5/main/.jordan.py")
     			os.system("python .jordan.py")
     		else:solo()
     	solo()
