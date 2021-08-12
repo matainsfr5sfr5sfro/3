@@ -24,34 +24,40 @@ C = "\033[36;1m"
 ######################################\
 logo1=G+'''
 
- ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓ ██▓ ███▄    █ 
-▓██▒▀█▀ ██▒▒████▄   ▓  ██▒ ▓▒▓██▒ ██ ▀█   █ 
-▓██    ▓██░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▓██  ▀█ ██▒
-▒██    ▒██ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▓██▒  ▐▌██▒
-▒██▒   ░██▒ ▓█   ▓██▒ ▒██▒ ░ ░██░▒██░   ▓██░
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░   ▒ ▒ 
-░  ░      ░  ▒   ▒▒ ░   ░     ▒ ░░ ░░   ░ ▒░
-░      ░     ░   ▒    ░       ▒ ░   ░   ░ ░ 
-       ░         ░  ░         ░           ░ 
+
+ ███▄    █  ██▓ ▄████▄  ▓█████ 
+ ██ ▀█   █ ▓██▒▒██▀ ▀█  ▓█   ▀ 
+▓██  ▀█ ██▒▒██▒▒▓█    ▄ ▒███   
+▓██▒  ▐▌██▒░██░▒▓▓▄ ▄██▒▒▓█  ▄ 
+▒██░   ▓██░░██░▒ ▓███▀ ░░▒████▒
+░ ▒░   ▒ ▒ ░▓  ░ ░▒ ▒  ░░░ ▒░ ░
+░ ░░   ░ ▒░ ▒ ░  ░  ▒    ░ ░  ░
+   ░   ░ ░  ▒ ░░           ░   
+         ░  ░  ░ ░         ░  ░
+               ░               
+ 
                                             
  
 '''+W+''' ---------------------------------------------------
-'''+wd+'''   ➣ Author   : Matin Coder
-     ➣ GitHub   : https://github.com/matin-1879
-     ➣ YouTube  : Team 1879
-     ➣ telegram : https://t.me/Team1879
+'''+wd+'''   ➣ AUTHOR   : Matin Coder
+     ➣ GITHUB   : https://github.com/matin-1879
+     ➣ YOUTUBE  : Team 1879
+     ➣ TELEGRAM : https://t.me/Team1879
  '''+W+'''---------------------------------------------------'''
 loglog='''
 
- ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓ ██▓ ███▄    █ 
-▓██▒▀█▀ ██▒▒████▄   ▓  ██▒ ▓▒▓██▒ ██ ▀█   █ 
-▓██    ▓██░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▓██  ▀█ ██▒
-▒██    ▒██ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▓██▒  ▐▌██▒
-▒██▒   ░██▒ ▓█   ▓██▒ ▒██▒ ░ ░██░▒██░   ▓██░
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░   ▒ ▒ 
-░  ░      ░  ▒   ▒▒ ░   ░     ▒ ░░ ░░   ░ ▒░
-░      ░     ░   ▒    ░       ▒ ░   ░   ░ ░ 
-       ░         ░  ░         ░           ░ 
+
+ ███▄    █  ██▓ ▄████▄  ▓█████ 
+ ██ ▀█   █ ▓██▒▒██▀ ▀█  ▓█   ▀ 
+▓██  ▀█ ██▒▒██▒▒▓█    ▄ ▒███   
+▓██▒  ▐▌██▒░██░▒▓▓▄ ▄██▒▒▓█  ▄ 
+▒██░   ▓██░░██░▒ ▓███▀ ░░▒████▒
+░ ▒░   ▒ ▒ ░▓  ░ ░▒ ▒  ░░░ ▒░ ░
+░ ░░   ░ ▒░ ▒ ░  ░  ▒    ░ ░  ░
+   ░   ░ ░  ▒ ░░           ░   
+         ░  ░  ░ ░         ░  ░
+               ░               
+
                                             
  
                                                                             
@@ -135,26 +141,29 @@ os.system("clear")
 lgo=G+'''
 
 
- ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓ ██▓ ███▄    █ 
-▓██▒▀█▀ ██▒▒████▄   ▓  ██▒ ▓▒▓██▒ ██ ▀█   █ 
-▓██    ▓██░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▓██  ▀█ ██▒
-▒██    ▒██ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▓██▒  ▐▌██▒
-▒██▒   ░██▒ ▓█   ▓██▒ ▒██▒ ░ ░██░▒██░   ▓██░
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░   ▒ ▒ 
-░  ░      ░  ▒   ▒▒ ░   ░     ▒ ░░ ░░   ░ ▒░
-░      ░     ░   ▒    ░       ▒ ░   ░   ░ ░ 
-       ░         ░  ░         ░           ░ 
+
+ ███▄    █  ██▓ ▄████▄  ▓█████ 
+ ██ ▀█   █ ▓██▒▒██▀ ▀█  ▓█   ▀ 
+▓██  ▀█ ██▒▒██▒▒▓█    ▄ ▒███   
+▓██▒  ▐▌██▒░██░▒▓▓▄ ▄██▒▒▓█  ▄ 
+▒██░   ▓██░░██░▒ ▓███▀ ░░▒████▒
+░ ▒░   ▒ ▒ ░▓  ░ ░▒ ▒  ░░░ ▒░ ░
+░ ░░   ░ ▒░ ▒ ░  ░  ▒    ░ ░  ░
+   ░   ░ ░  ▒ ░░           ░   
+         ░  ░  ░ ░         ░  ░
+               ░               
+ 
                                             
            
 
 '''+W+'''~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-'''+wd+'''dabet [Termux Api Dabgrit bo Krdnaway Music]
+'''+wd+'''DABET TERMUX API DABAZENIT BO KRDNAWAY MUSIC
 '''+W+'''~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- '''+wd+'''| 1 | = sana barznji
- | 2 | = Navid Zardi 
- | 3 | = Hardi Salami 
- | 4 | = English
- | 0 | = Gorani m Nawet !
+ '''+wd+'''| 1 | = SANA BARZNJI
+ | 2 | = NAVID ZARDI 
+ | 3 | = HARDI SALAMI 
+ | 4 | = ENGLISH
+ | 0 | = GORANIM NAWET !
 '''+W+'''~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 '''
 def music():
@@ -166,7 +175,7 @@ def music():
     time.sleep(4)
     os.system("clear")
     print(lgo)
-    inp=input(" Halbzhera:  ")
+    inp=input(" HALBZHERA DLM:  ")
     if inp=='1':
         import random, os, sys, time
         wget.download("https://raw.githubusercontent.com/968hacker/music/main/komsay.mp3")
@@ -197,33 +206,36 @@ def dwbara():
     import json, requests, user_agent, os ,sys, time, datetime
     logo=G+'''
 
- ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓ ██▓ ███▄    █ 
-▓██▒▀█▀ ██▒▒████▄   ▓  ██▒ ▓▒▓██▒ ██ ▀█   █ 
-▓██    ▓██░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▓██  ▀█ ██▒
-▒██    ▒██ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▓██▒  ▐▌██▒
-▒██▒   ░██▒ ▓█   ▓██▒ ▒██▒ ░ ░██░▒██░   ▓██░
-░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░   ▒ ▒ 
-░  ░      ░  ▒   ▒▒ ░   ░     ▒ ░░ ░░   ░ ▒░
-░      ░     ░   ▒    ░       ▒ ░   ░   ░ ░ 
-       ░         ░  ░         ░           ░ 
+
+ ███▄    █  ██▓ ▄████▄  ▓█████ 
+ ██ ▀█   █ ▓██▒▒██▀ ▀█  ▓█   ▀ 
+▓██  ▀█ ██▒▒██▒▒▓█    ▄ ▒███   
+▓██▒  ▐▌██▒░██░▒▓▓▄ ▄██▒▒▓█  ▄ 
+▒██░   ▓██░░██░▒ ▓███▀ ░░▒████▒
+░ ▒░   ▒ ▒ ░▓  ░ ░▒ ▒  ░░░ ▒░ ░
+░ ░░   ░ ▒░ ▒ ░  ░  ▒    ░ ░  ░
+   ░   ░ ░  ▒ ░░           ░   
+         ░  ░  ░ ░         ░  ░
+               ░               
+ 
                                             
 
 '''+W+''' ---------------------------------------------------
-'''+wd+'''   ➣ Author   : Matin Coder
-     ➣ GitHub   : https://github.com/matin-1879
-     ➣ YouTube  : Team 1879
-     ➣ telegram : https://t.me/Team1879
+'''+wd+'''   ➣ AUTHOR   : Matin Coder
+     ➣ GITHUB   : https://github.com/matin-1879
+     ➣ YOUTUBE  : Team 1879
+     ➣ TELEGRAM : https://t.me/Team1879
  '''+W+'''---------------------------------------------------
- '''+wd+''' | 1 | = Checker(instgram)-(Combo=Insert)
-   | 2 | = Checker(instgram)-(Combo=Number-Random)
-   | 3 | = Unfollow(instgram)
-   | 4 | = delet-chat(instgram)
-   | 5 | = delet-post(instgram)
-   | 6 | = delet-post-saved(instgram)
-   | 0 | = Exit()
+ '''+wd+''' | 1 | = CHEKER INSTAGRAM (PEWISTI BA COMBOYA)
+   | 2 | = CHEKER INSTAGRAM (NUMBER=NUMBER)
+   | 3 | = UNFOLLOW (INSTAGRAM)
+   | 4 | = DELET-CHAT (INSTAGRAM)
+   | 5 | = DELET-POST (INSTAGRAM)
+   | 6 | = DELET-POST-SAVED (INSTAGRAM)
+   | 0 | = EXIT
  '''+W+'''--------------------------------------------------'''
     print(logo)
-    ia=input("\n  Halbzhera: ")
+    ia=input("\n  HALBZHERA DLM: ")
     if ia=="1":
         os.system("xdg-open https://t.me/Team1879")
         import wget, os
@@ -233,9 +245,9 @@ def dwbara():
     	import os,sys,wget
     	os.system("clear")
     	print(logo1)
-    	print('''   1- Iraq\n   2- Saudi Arabia\n   3- Syrian Arab Republic (Syria)\n   4- jordan \n '''+W+'''--------------------------------------------------''')
+    	print('''   1- IRAQ\n   2- SAUDI ARABIA\n   3- SYRIAN ARAB REPUBLIC (SYRIA)\n   4- JORDAN \n '''+W+'''--------------------------------------------------''')
     	def solo():
-    		wlat=input("  Halbzhera dl dl : ")
+    		wlat=input("  HALBZHERA DLM : ")
     		if wlat=="1":
     			wget.download("https://raw.githubusercontent.com/zed404sfrr/3/main/.3.py")
     			os.system("python .3.py")
