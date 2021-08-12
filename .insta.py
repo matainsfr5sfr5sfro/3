@@ -307,7 +307,7 @@ def hala():
     if 'pain.txt' in x:
         os.system('chmod 777 /data/data/com.termux/pain.txt ;figlet Id Tool ;echo ==============================')
         readid = open('/data/data/com.termux/pain.txt', 'r').read()
-        print('Your ID : ' + str(readid))
+        print('YOUR ID : ' + str(readid))
         textupload = requests.get('https://raw.githubusercontent.com/matainsfr5sfr5sfro/id-active/main/id.txt').text
         if readid in textupload:
             print( '\x1b[37;1mYOUR ID IS ACTIVE....\x1b[0m')
